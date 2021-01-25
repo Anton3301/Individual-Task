@@ -386,7 +386,6 @@ padding-left: 210px;
   width: 1600px;
   height: 762px;
   background-image: url(img/block_six.png);
-  display: flex;
 }
 
 .seven_top_left{
@@ -471,5 +470,138 @@ padding-left: 210px;
 .block_footer{
   background-image: url(img/block_footer.png);
   width: 1600px;
-  height: 573px;
+  height: 572px;
+}
+
+.footer_body{
+  padding-left: 210px;
+  padding-top: 104px;
+  display: flex;
+}
+
+.footer_left_1string{
+  color: white;
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.footer_left_text{
+  color: white;
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+  width: 557px;
+  margin-top: 28px;
+  line-height: 1.846;
+}
+
+.footer_columns{
+  display: flex;
+  margin-top: 74px;
+}
+
+.columns_line{
+  color: white;
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.columns_ul{
+  color: white;
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+  padding: 0 0 0 0;
+}
+
+ul{
+  padding: 0 0 0 0;
+  list-style-type: none;
+}
+
+.columns_2{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.footer_right{
+  margin-left: 144px;
+}
+
+.footer_right_line{
+  color: white;
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.footer_mail{
+  height: 60px;
+  width: 400px;
+  padding: 0;
+}
+
+.mail_btn{
+  height: 60px;
+  width: 60px;
+  padding: 0;
+  background-color: #835fa8;
+  background-image: url(img/check.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.form{
+  display: flex;
+}
+
+.email{
+  margin-top: 29px;
+}
+
+.footer_right_text{
+  color: white;
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 30px;
+  width: 300px;
+}
+
+.seven_bottom{
+  display: flex;
+  margin-left: 196px;
+}
+
+.seven_bottom_right{
+  background-image: url(img/seven_photo2.png);
+  height: 303px;
+  width: 585px;
+  margin-right: 234px;
+}
+
+.block_seven_help{
+  display: flex;
+}
+
+.seven_bottom_left{
+  background-color: white;
+  width: 587px;
+  height: 300px;
+}
+
+.seven_bottom_left_txt1{
+  font-size: 23px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  margin-top: 45px;
+  margin-left: 45px;
+  width: 387px;
+}
+
+.seven_bottom_left_txt2{
+  margin-top: 45px;
+  margin-left: 45px;
+  font-size: 13px;
+  color: gray;
+  font-family: 'Open Sans', sans-serif;
+  width: 492px;
 }
